@@ -144,7 +144,7 @@ nav .flex_nav i{
 
 @media (min-width:350px) and (max-width:450px) {
     :root{
-        font-size: 6px;
+        font-size: 8px;
     }
     nav{
         padding: 1.5% 0% 0 0%;
@@ -167,7 +167,7 @@ nav .flex_nav i{
 
 @media (min-width:250px) and (max-width:350px) {
     :root{
-        font-size: 5px;
+        font-size: 8px;
     }
     nav{
         padding: 1.5% 0% 0 0%;
